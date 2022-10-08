@@ -8,7 +8,7 @@ module.exports = {
 
     // basic site info (required)
     name: "Brian Kelleher",
-    domain: 'jackoregankenny.com',
+    domain: 'notionsite2-xi.vercel.app',
     author: "Brian Kelleher",
 
     // open graph metadata (optional)
